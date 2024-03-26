@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimDataCapConsole", "src\SimDataCapConsole\SimDataCapConsole.csproj", "{8ABCCEFF-33D0-42DB-86AD-2A3D05D20D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimDataCapConsole", "src\SimDataCapConsole\SimDataCapConsole.csproj", "{8ABCCEFF-33D0-42DB-86AD-2A3D05D20D19}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRSDKSharper", "IRSDKSharper\IRSDKSharper.csproj", "{B4F22802-21AE-477C-A04E-021033E854D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRSDKSharper", "IRSDKSharper\IRSDKSharper.csproj", "{A50D12D9-639F-47FD-96F4-AFD771301B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8ABCCEFF-33D0-42DB-86AD-2A3D05D20D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ABCCEFF-33D0-42DB-86AD-2A3D05D20D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ABCCEFF-33D0-42DB-86AD-2A3D05D20D19}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4F22802-21AE-477C-A04E-021033E854D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4F22802-21AE-477C-A04E-021033E854D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4F22802-21AE-477C-A04E-021033E854D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4F22802-21AE-477C-A04E-021033E854D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50D12D9-639F-47FD-96F4-AFD771301B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50D12D9-639F-47FD-96F4-AFD771301B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50D12D9-639F-47FD-96F4-AFD771301B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50D12D9-639F-47FD-96F4-AFD771301B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

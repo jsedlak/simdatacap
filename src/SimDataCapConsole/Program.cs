@@ -23,3 +23,4 @@ while (!Console.KeyAvailable && isRunning)
 Log.Logger.Information("Quitting...");
 
 simCap.Stop();
+simCap.Flush();
